@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Geraldo P. M. Júnior</h1>
+#
+<h1 align="center">Hi, I'm Geraldo P. M. Júnior</h1>
 <h3 align="center">A Computer Science student from Brazil aspiring to be a Front-end Developer.</h3>
 
-- 🔭 I’m currently working on **building an art portfolio with HTML, CSS and Javascript.**
+- 👩‍💻 I’m currently working on **building an art portfolio with HTML, CSS and Javascript.**
 
-- 🌱 I’m currently learning **JavaScript!**
+- 📚 I’m currently learning **JavaScript!**
 
 - 🤝 I’m looking for help with **Front-end developing!**
+
+- 👨‍🎓 I'm currently a first year student at [Una](https://una.br/) pursuing a degree in computer science.
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
