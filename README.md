@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript!**
 
-- 🤝 I’m looking for help with **Frontend developing!**
+- 🤝 I’m looking for help with **Front-end developing!**
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
