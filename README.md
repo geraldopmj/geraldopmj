@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- 📄 Know about my experiences: [linkedin.com/in/geraldo-pmj/](linkedin.com/in/geraldo-pmj/)
-
 - ⚡ About me: **I'm an Archaeologist aspiring to be a Front-end Developer! I also love photography, guitars and go cycling on weekends.**
 
 <h3 align="center">Languages and Tools:</h3>
