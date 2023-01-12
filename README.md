@@ -28,11 +28,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://linkedin.com/in/geraldo-pmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldo-pmj" height="30" width="40" /></a> </p>
 
-<h3 align="center">Github stats:</h3>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact" alt="geraldopmj" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldopmj&show_icons=true&locale=en" alt="geraldopmj" />
-  </p>
-
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldopmj&" alt="geraldopmj" />
   </p>
