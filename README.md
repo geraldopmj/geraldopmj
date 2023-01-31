@@ -6,8 +6,6 @@
 
 - 📚 I’m currently learning **JavaScript!**
 
-- 🤝 I’m looking for help with **Front-end developing!**
-
 - 👨‍🎓 I'm currently a first year student at [Una](https://una.br/) pursuing a degree in computer science.
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
