@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- ⚡ About me: **I'm an Archaeologist aspiring to be a Front-end Developer! I also love photography, playing guitar/bass and go cycling on weekends.**
+- ⚡ About me: I'm an Archaeologist aspiring to be a Front-end Developer! I also love photography, playing guitar/bass and go cycling on weekends.
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
