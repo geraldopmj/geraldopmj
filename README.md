@@ -2,15 +2,15 @@
 <h1 align="center">Hi, I'm Geraldo Pereira de Morais Júnior</h1>
 <h3 align="center">A Computer Science student from Brazil aspiring to be a Front-end Developer.</h3>
 
-- 👩‍💻 I’m currently working on **building an art portfolio with HTML, CSS and Javascript.**
+- 👩‍💻 I’m currently working on **making a full website with React.**
 
-- 📚 I’m currently learning **JavaScript!**
+- 📚 I’m currently learning **React!**
 
 - 👨‍🎓 I'm currently a first year student at [Una](https://una.br/) pursuing a degree in computer science.
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- ⚡ About me: I'm an Archaeologist aspiring to be a Front-end Developer! I also love photography, playing guitar/bass and go cycling on weekends.
+- 👋 About me: I'm an Archaeologist aspiring to be a Front-end Developer! I also love photography, playing guitar/bass and go cycling on weekends.
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
