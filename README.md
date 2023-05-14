@@ -21,7 +21,7 @@
 </p> 
 
 <h3 align="center">Tools:</h3>
-<p align="center"> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-lightroom-icon.png" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://linkedin.com/in/geraldo-pmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldo-pmj" height="30" width="40" /></a> </p>
