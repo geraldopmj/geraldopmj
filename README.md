@@ -1,10 +1,6 @@
 #
 <h1 align="center">Hi, I'm Geraldo Pereira de Morais Júnior</h1>
-<h3 align="center">A Computer Science student from Brazil aspiring to be a Front-end Developer.</h3>
-
-- 👩‍💻 I’m currently working on **making a full website with React.**
-
-- 📚 I’m currently learning **React!**
+<h3 align="center">A Computer Science student from Brazil aspiring to be a Developer.</h3>
 
 - 👨‍🎓 I'm currently a first year student at [Una](https://una.br/) pursuing a degree in computer science.
 
@@ -25,9 +21,3 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://linkedin.com/in/geraldo-pmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldo-pmj" height="30" width="40" /></a> </p>
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact" alt="geraldopmj" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldopmj&show_icons=true&locale=en" alt="geraldopmj" /> </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldopmj&" alt="geraldopmj" /></p>
