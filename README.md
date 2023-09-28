@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Geraldo Pereira de Morais Júnior</h1>
 <h3 align="center">A Computer Science student from Brazil aspiring to be a Developer.</h3>
 
-- 👨‍🎓 I'm currently a student (3/8 semester) at [Una](https://una.br/) pursuing a degree in computer science.
+- 👨‍🎓 I'm currently a  Computer Science student (3/8 semester) at [Una](https://una.br/).
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- 👋 About me: I'm an Archaeologist aspiring to be a Developer! I also love photography, playing guitar/bass, trekking and go cycling or swimming on weekends.
+- 👋 About me: I'm an [archaeologist](https://ufmg.academia.edu/Geraldopmj) aspiring to be a Developer! I also love photography, playing guitar/bass, trekking and go cycling or swimming on weekends.
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
