@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- 👋 About me: I'm an [archaeologist](https://ufmg.academia.edu/Geraldopmj) aspiring to be a Developer! I also love [photography](https://geraldopmj.portfoliobox.net), playing guitar/bass, trekking and go cycling or swimming on weekends.
+- 👋 About me: I'm an [archaeologist](https://ufmg.academia.edu/Geraldopmj) aspiring to be a Developer! I also love [photography](https://geraldopmj.github.io/foto-portfolio/), playing guitar/bass, trekking and go cycling or swimming on weekends.
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
