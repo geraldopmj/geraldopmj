@@ -8,6 +8,8 @@
 
 - 👋 About me: I'm an [archaeologist](https://ufmg.academia.edu/Geraldopmj) aspiring to be a Developer! I also love [photography](https://geraldopmj.github.io/foto-portfolio/), playing guitar/bass, trekking and go cycling or swimming on weekends.
 
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact" alt="geraldopmj" /></p>
+
 <h3 align="center">Languages:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -18,9 +20,11 @@
 </p> 
 
 <h3 align="center">Tools:</h3>
-<p align="center"> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldopmj&layout=compact)](https://github.com/geraldopmj/github-readme-stats)
+<p align="center"> 
+<a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SketchUp-Logo.png" alt="photoshop" width="40" height="40"/> </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://linkedin.com/in/geraldo-pmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldo-pmj" height="30" width="40" /></a> </p>
