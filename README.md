@@ -8,7 +8,7 @@
 
 - 👋 About me: I'm an [archaeologist](https://ufmg.academia.edu/Geraldopmj) aspiring to be a Developer! I also love [photography](https://geraldopmj.github.io/foto-portfolio/), playing guitar/bass, trekking and go cycling or swimming on weekends.
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact&hide=TeX,html" alt="geraldopmj" /></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact&hide=TeX,html&langs_count=8" alt="geraldopmj" /></p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
