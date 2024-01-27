@@ -1,6 +1,5 @@
 #
 <h1 align="center">Hi, I'm Geraldo Pereira de Morais Júnior</h1>
-<h3 align="center">A Computer Science student from Brazil aspiring to be a Developer.</h3>
 
 - 👨‍🎓 I'm currently a  Computer Science student (4/8 semester) at [Una](https://una.br/).
 
