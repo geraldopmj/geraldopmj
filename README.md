@@ -1,7 +1,7 @@
 #
 <h1 align="center">Hi, I'm Geraldo Pereira de Morais Júnior</h1>
 
-- 👨‍🎓 I'm currently a  Computer Science student (4/8 semester) at [Una](https://una.br/).
+- 👨‍🎓 I'm currently a  Computer Science student (5/8 semester) at [Una](https://una.br/).
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
