@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **geraldo.pmj@gmail.com**
 
-- 👋 About me: I have master's in [archaeology](https://ufmg.academia.edu/Geraldopmj), but i have changed career to become a [GIS Analyst]([https://ufmg.academia.edu/Geraldopmj](https://linkedin.com/in/geraldo-pmj))! I also love [photography](https://geraldopmj.github.io/foto-portfolio/), playing guitar/bass, trekking and go cycling or swimming on weekends.
+- 👋 About me: I have master's in [archaeology](https://ufmg.academia.edu/Geraldopmj), but i have changed career to become a [GIS Analyst]([https://ufmg.academia.edu/Geraldopmj](https://linkedin.com/in/geraldo-pmj)! I also love [photography](https://geraldopmj.github.io/foto-portfolio/), playing guitar/bass, trekking and go cycling or swimming on weekends.
 
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact&hide=TeX,html&langs_count=8" alt="geraldopmj" /></p>
 
