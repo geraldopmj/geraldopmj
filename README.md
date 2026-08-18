@@ -7,7 +7,7 @@
 
 - 👋 About me: Former [archaeologist](https://ufmg.academia.edu/Geraldopmj), changed career to become a [Data Scientist/GIS Dev](https://linkedin.com/in/geraldo-pmj)!
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact&hide=TeX,html&langs_count=8" alt="geraldopmj" /></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldopmj&show_icons=true&locale=en&layout=compact&hide=TeX,html&langs_count=8" alt="" /></p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
